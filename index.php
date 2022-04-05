@@ -22,7 +22,7 @@
                     </div>
                 </div>
             </nav>
-            <h2 class="container-fluid">Implementação em php</h2>
+            <h2 class="container-fluid">Implementação em phpteste</h2>
             <?php
                 echo "<p class='container-fluid'> Este é um teste de implementação em PHP na Azure </p>";
             ?>
